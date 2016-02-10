@@ -1,0 +1,2 @@
+# libHomeMesh
+Arduino mesh network
