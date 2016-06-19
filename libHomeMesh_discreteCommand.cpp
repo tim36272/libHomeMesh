@@ -1,4 +1,5 @@
 #include "libHomeMesh_discreteCommand.h"
+#include "Arduino.h"
 //pin: The Arduino pin to check
 //state: the current state
 //stateTimestamp: the time the state was entered

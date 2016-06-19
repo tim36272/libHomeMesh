@@ -11,3 +11,8 @@
 
 //Garage door opener
 #define GARAGE_DEVICE_ID 2
+
+//IR Repeater
+#define IR_REPEATER_DEVICE_ID 3
+//IR Repeater data
+#define IR_REPEATER_BEGIN_TRANSMISSION 0
